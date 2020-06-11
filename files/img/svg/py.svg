@@ -1,0 +1,11 @@
+<svg id="py" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <path id="Trazado_1" data-name="Trazado 1" d="M512,96V480a31.992,31.992,0,0,1-32,32H32A31.992,31.992,0,0,1,0,480V96Zm0,0" fill="#e4edfb"/>
+  <path id="Trazado_2" data-name="Trazado 2" d="M0,0H512V128H0ZM0,0" fill="#00769d"/>
+  <path id="Trazado_3" data-name="Trazado 3" d="M64,48H96V80H64Zm0,0" fill="#fff"/>
+  <path id="Trazado_4" data-name="Trazado 4" d="M128,48h32V80H128Zm0,0" fill="#fff"/>
+  <path id="Trazado_5" data-name="Trazado 5" d="M432,80H208a16,16,0,0,1,0-32H432a16,16,0,0,1,0,32Zm0,0" fill="#62808c"/>
+  <g id="Grupo_1" data-name="Grupo 1">
+    <path id="Trazado_6" data-name="Trazado 6" d="M182.383,240H144V384a16,16,0,0,0,32,0V352h8a56.114,56.114,0,0,0,54.8-67.762C233.426,258.063,209.105,240,182.383,240ZM184,320h-8V272h8a24,24,0,0,1,0,48Zm0,0" fill="#00769d"/>
+    <path id="Trazado_7" data-name="Trazado 7" d="M352,240a16.006,16.006,0,0,0-16,16v41.375l-16,16-16-16V256a16,16,0,0,0-32,0v54.625l32,32V384a16,16,0,0,0,32,0V342.625l32-32V256A16.006,16.006,0,0,0,352,240Zm0,0" fill="#00769d"/>
+  </g>
+</svg>
